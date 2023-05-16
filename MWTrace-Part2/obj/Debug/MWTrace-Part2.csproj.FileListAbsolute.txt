@@ -1,0 +1,13 @@
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace-Part2.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.Assemble.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.MainMenu.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.Identificar_Operador.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.Reportes.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.Status.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.SubOrder.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace_Part2.WO.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace-Part2.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace-Part2.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace-Part2.exe
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\MWTrace-Part2\obj\Debug\MWTrace-Part2.pdb

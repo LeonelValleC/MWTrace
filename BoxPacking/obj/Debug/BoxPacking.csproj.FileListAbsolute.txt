@@ -1,0 +1,17 @@
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\Interop.BarTender.dll
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.csproj.ResolveComReference.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Caja_Inicial.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Form1.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Identificar_Operador.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.MainMenu.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Packing.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Reports.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.Set_UP.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.SubOrder.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.WO.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.exe
+C:\Users\leonel.valle\source\repos\MWTrace_beta(NEW)\BoxPacking\obj\Debug\BoxPacking.pdb
